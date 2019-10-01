@@ -1,0 +1,13 @@
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.deps.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.dev.json
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.dll
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.pdb
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.csprojAssemblyReference.cache
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfoInputs.cache
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfo.cs
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.dll
+D:\Codigos\NET\ASPNETCore2_JWT-Identity\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.pdb
